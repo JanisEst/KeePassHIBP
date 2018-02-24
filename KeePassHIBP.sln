@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeePassHIBP", "KeePassHIBP.csproj", "{6A249FA1-3F87-4C81-8D31-6BDF62308F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeePass", "..\KeePass\KeePass\KeePass.csproj", "{10938016-DEE2-4A25-9A5A-8FD3444379CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B6024896-002F-4562-91BA-DCF0E56EF345}"
+	ProjectSection(SolutionItems) = preProject
+		keepass.version = keepass.version
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A249FA1-3F87-4C81-8D31-6BDF62308F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A249FA1-3F87-4C81-8D31-6BDF62308F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A249FA1-3F87-4C81-8D31-6BDF62308F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A249FA1-3F87-4C81-8D31-6BDF62308F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10938016-DEE2-4A25-9A5A-8FD3444379CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10938016-DEE2-4A25-9A5A-8FD3444379CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10938016-DEE2-4A25-9A5A-8FD3444379CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10938016-DEE2-4A25-9A5A-8FD3444379CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1AD4ACB-ACCA-40ED-AF9B-4443BF8D623C}
+	EndGlobalSection
+EndGlobal
